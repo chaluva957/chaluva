@@ -1,2 +1,2 @@
-# chaluva
+diploma 5th sem
 res polytec
